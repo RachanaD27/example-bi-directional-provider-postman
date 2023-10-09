@@ -103,7 +103,7 @@ paths:
               examples:
                 "GET /products/:id (404)":
                   value: {}
-    parameters:
+      parameters:
       - name: id
         in: path
         required: true
